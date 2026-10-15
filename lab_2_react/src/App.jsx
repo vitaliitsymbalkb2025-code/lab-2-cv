@@ -1,4 +1,3 @@
-import './App.css';
 import Education from './components/Education';
 import Experience from './components/Experience';
 import Footer from './components/Footer';
